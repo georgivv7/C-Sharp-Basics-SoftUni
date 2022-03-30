@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.exe
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.deps.json
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.dll
+D:\C# Basics\PB-Exam-May\Safari\bin\Debug\netcoreapp3.1\Safari.pdb
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.dll
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.pdb
+D:\C# Basics\PB-Exam-May\Safari\obj\Debug\netcoreapp3.1\Safari.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.exe
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.deps.json
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.dll
+D:\C# Basics\MoreExercisesForLoops\Bills\bin\Debug\netcoreapp3.1\Bills.pdb
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.dll
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.pdb
+D:\C# Basics\MoreExercisesForLoops\Bills\obj\Debug\netcoreapp3.1\Bills.genruntimeconfig.cache

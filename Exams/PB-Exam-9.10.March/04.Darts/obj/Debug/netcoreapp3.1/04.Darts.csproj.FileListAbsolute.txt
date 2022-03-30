@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.exe
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.deps.json
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.dll
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\bin\Debug\netcoreapp3.1\04.Darts.pdb
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.dll
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.pdb
+D:\C# Basics\PB-Exam-9.10.March\04.Darts\obj\Debug\netcoreapp3.1\04.Darts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.exe
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+D:\C# Basics\NestedLoops-MoreExercises\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.genruntimeconfig.cache

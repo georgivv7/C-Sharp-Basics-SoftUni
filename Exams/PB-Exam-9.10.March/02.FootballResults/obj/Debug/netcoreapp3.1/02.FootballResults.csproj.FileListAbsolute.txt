@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.exe
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.deps.json
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.dll
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.pdb
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.dll
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.pdb
+D:\C# Basics\PB-Exam-9.10.March\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.genruntimeconfig.cache

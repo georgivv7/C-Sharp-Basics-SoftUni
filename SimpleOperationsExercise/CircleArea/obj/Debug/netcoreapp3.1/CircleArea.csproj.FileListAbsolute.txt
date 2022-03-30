@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.exe
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.deps.json
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.dll
+D:\C# Basics\SimpleOperationsExercise\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.pdb
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.dll
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.pdb
+D:\C# Basics\SimpleOperationsExercise\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.genruntimeconfig.cache

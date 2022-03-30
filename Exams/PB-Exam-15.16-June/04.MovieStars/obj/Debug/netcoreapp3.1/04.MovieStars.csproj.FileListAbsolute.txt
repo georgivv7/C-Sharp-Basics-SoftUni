@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.exe
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.deps.json
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.dll
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.pdb
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.dll
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.pdb
+D:\C# Basics\PB-Exam-15.16-June\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.genruntimeconfig.cache

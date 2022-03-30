@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.exe
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.deps.json
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.dll
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\bin\Debug\netcoreapp3.1\PointOnRectangularBorder.pdb
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.dll
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.pdb
+D:\C# Basics\ConditionalsMoreExercise\PointOnRectangularBorder\obj\Debug\netcoreapp3.1\PointOnRectangularBorder.genruntimeconfig.cache

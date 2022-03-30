@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.exe
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.deps.json
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.dll
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.pdb
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.dll
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.pdb
+D:\C# Basics\ConditionalsMoreExercise\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.genruntimeconfig.cache

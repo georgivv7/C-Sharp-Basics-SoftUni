@@ -1,0 +1,13 @@
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.exe
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.deps.json
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.runtimeconfig.json
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.runtimeconfig.dev.json
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.dll
+D:\C# Basics\BuildingProjects\BuildingProjects\bin\Debug\netcoreapp3.1\BuildingProjects.pdb
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.csprojAssemblyReference.cache
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.AssemblyInfoInputs.cache
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.AssemblyInfo.cs
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.csproj.CoreCompileInputs.cache
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.dll
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.pdb
+D:\C# Basics\BuildingProjects\BuildingProjects\obj\Debug\netcoreapp3.1\BuildingProjects.genruntimeconfig.cache

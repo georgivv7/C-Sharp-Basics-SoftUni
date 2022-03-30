@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.exe
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.deps.json
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
+D:\C# Basics\PB-Exam-9.10.March\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.genruntimeconfig.cache

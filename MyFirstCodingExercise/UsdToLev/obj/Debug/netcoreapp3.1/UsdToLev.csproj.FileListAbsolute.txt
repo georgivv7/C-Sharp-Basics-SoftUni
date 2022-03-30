@@ -1,0 +1,13 @@
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.exe
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.deps.json
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.runtimeconfig.json
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.runtimeconfig.dev.json
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.dll
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\bin\Debug\netcoreapp3.1\UsdToLev.pdb
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.csprojAssemblyReference.cache
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.AssemblyInfoInputs.cache
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.AssemblyInfo.cs
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.csproj.CoreCompileInputs.cache
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.dll
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.pdb
+D:\C# Basics\MyFirstCodingExercise\UsdToLev\obj\Debug\netcoreapp3.1\UsdToLev.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.exe
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.deps.json
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.dll
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.pdb
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.dll
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.pdb
+D:\C# Basics\ConditionalsMoreExercise\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.exe
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.deps.json
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.json
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.dll
+D:\C# Basics\WhileLoops\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.pdb
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.dll
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.pdb
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.genruntimeconfig.cache
+D:\C# Basics\WhileLoops\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csprojAssemblyReference.cache

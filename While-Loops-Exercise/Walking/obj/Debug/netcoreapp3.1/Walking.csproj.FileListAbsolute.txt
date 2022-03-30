@@ -1,0 +1,13 @@
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+D:\C# Basics\While-Loops-Exercise\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.csprojAssemblyReference.cache
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+D:\C# Basics\While-Loops-Exercise\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache

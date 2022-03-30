@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.exe
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.deps.json
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.dll
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.pdb
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.dll
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.pdb
+D:\C# Basics\PB-Exam-6.7-April\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.genruntimeconfig.cache

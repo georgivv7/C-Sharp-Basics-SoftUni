@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.exe
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.deps.json
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.dll
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\bin\Debug\netcoreapp3.1\03.SnookerChampionship.pdb
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.dll
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.pdb
+D:\C# Basics\PB-Exam-9.10.March\03.SnookerChampionship\obj\Debug\netcoreapp3.1\03.SnookerChampionship.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+D:\C# Basics\PB-Exam-July\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+D:\C# Basics\PB-Exam-July\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

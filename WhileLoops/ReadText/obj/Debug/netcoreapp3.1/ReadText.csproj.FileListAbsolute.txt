@@ -1,0 +1,13 @@
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+D:\C# Basics\WhileLoops\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+D:\C# Basics\WhileLoops\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

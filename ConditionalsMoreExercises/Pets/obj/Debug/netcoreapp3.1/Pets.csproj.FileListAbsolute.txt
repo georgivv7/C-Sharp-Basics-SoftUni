@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+D:\C# Basics\ConditionalsMoreExercises\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+D:\C# Basics\ConditionalsMoreExercises\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache

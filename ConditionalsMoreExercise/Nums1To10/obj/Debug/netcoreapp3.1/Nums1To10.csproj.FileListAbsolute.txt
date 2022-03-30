@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.exe
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.deps.json
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.dll
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.dll
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\C# Basics\ConditionalsMoreExercise\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.genruntimeconfig.cache

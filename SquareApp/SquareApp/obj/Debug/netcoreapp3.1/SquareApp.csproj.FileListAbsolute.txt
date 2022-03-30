@@ -1,0 +1,12 @@
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.exe
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.deps.json
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.runtimeconfig.json
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.runtimeconfig.dev.json
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.dll
+D:\C# Basics\SquareApp\SquareApp\bin\Debug\netcoreapp3.1\SquareApp.pdb
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.AssemblyInfoInputs.cache
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.AssemblyInfo.cs
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.csproj.CoreCompileInputs.cache
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.dll
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.pdb
+D:\C# Basics\SquareApp\SquareApp\obj\Debug\netcoreapp3.1\SquareApp.genruntimeconfig.cache

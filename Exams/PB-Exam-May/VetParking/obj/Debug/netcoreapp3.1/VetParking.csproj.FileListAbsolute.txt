@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.exe
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.deps.json
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.dll
+D:\C# Basics\PB-Exam-May\VetParking\bin\Debug\netcoreapp3.1\VetParking.pdb
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.dll
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.pdb
+D:\C# Basics\PB-Exam-May\VetParking\obj\Debug\netcoreapp3.1\VetParking.genruntimeconfig.cache

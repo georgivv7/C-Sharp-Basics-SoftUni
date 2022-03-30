@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.exe
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.deps.json
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.dll
+D:\C# Basics\PB-Exam-April\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.pdb
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.dll
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.pdb
+D:\C# Basics\PB-Exam-April\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.exe
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.deps.json
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.dll
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\bin\Debug\netcoreapp3.1\MatchTicket.pdb
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.dll
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.pdb
+D:\C# Basics\ConditionalsMoreExercise\MatchTicket\obj\Debug\netcoreapp3.1\MatchTicket.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.exe
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.deps.json
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.dll
+D:\C# Basics\PB-Exam-March\FoodForCats\bin\Debug\netcoreapp3.1\FoodForCats.pdb
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.dll
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.pdb
+D:\C# Basics\PB-Exam-March\FoodForCats\obj\Debug\netcoreapp3.1\FoodForCats.genruntimeconfig.cache

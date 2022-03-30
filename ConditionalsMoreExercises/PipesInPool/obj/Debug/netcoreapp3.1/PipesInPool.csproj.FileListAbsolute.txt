@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.exe
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.deps.json
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.dll
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.pdb
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.dll
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.pdb
+D:\C# Basics\ConditionalsMoreExercises\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.genruntimeconfig.cache

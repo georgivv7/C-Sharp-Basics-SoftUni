@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.exe
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.deps.json
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.dll
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\bin\Debug\netcoreapp3.1\TheMostPowerfulWord.pdb
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.dll
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.pdb
+D:\C# Basics\PB-Exam-July\TheMostPowerfulWord\obj\Debug\netcoreapp3.1\TheMostPowerfulWord.genruntimeconfig.cache

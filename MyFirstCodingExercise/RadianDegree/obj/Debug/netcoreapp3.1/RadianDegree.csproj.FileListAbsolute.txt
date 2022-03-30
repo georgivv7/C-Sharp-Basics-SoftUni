@@ -1,0 +1,13 @@
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.exe
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.deps.json
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.runtimeconfig.json
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.runtimeconfig.dev.json
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.dll
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\bin\Debug\netcoreapp3.1\RadianDegree.pdb
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.csprojAssemblyReference.cache
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.AssemblyInfoInputs.cache
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.AssemblyInfo.cs
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.csproj.CoreCompileInputs.cache
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.dll
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.pdb
+D:\C# Basics\MyFirstCodingExercise\RadianDegree\obj\Debug\netcoreapp3.1\RadianDegree.genruntimeconfig.cache

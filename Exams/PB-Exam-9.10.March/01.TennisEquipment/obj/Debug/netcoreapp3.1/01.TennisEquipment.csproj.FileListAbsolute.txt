@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.exe
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.deps.json
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.pdb
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.pdb
+D:\C# Basics\PB-Exam-9.10.March\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.genruntimeconfig.cache

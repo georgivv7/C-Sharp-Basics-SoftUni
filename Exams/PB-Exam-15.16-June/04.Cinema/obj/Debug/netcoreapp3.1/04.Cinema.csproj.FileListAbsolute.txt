@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.exe
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.deps.json
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.dll
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.pdb
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.dll
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.pdb
+D:\C# Basics\PB-Exam-15.16-June\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.genruntimeconfig.cache

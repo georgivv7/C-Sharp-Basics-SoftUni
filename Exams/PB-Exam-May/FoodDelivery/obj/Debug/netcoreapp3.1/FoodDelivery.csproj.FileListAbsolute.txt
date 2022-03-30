@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+D:\C# Basics\PB-Exam-May\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+D:\C# Basics\PB-Exam-May\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache

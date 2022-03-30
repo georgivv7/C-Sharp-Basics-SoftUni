@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+D:\C# Basics\ConditionalsMoreExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+D:\C# Basics\ConditionalsMoreExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

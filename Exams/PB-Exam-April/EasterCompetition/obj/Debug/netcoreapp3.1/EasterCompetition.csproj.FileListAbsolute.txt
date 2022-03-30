@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.exe
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.deps.json
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.dll
+D:\C# Basics\PB-Exam-April\EasterCompetition\bin\Debug\netcoreapp3.1\EasterCompetition.pdb
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.dll
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.pdb
+D:\C# Basics\PB-Exam-April\EasterCompetition\obj\Debug\netcoreapp3.1\EasterCompetition.genruntimeconfig.cache

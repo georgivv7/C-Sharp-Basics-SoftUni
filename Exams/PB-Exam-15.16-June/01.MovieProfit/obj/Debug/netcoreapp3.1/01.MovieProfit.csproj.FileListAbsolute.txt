@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.exe
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.deps.json
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.dll
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.pdb
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.dll
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.pdb
+D:\C# Basics\PB-Exam-15.16-June\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.genruntimeconfig.cache

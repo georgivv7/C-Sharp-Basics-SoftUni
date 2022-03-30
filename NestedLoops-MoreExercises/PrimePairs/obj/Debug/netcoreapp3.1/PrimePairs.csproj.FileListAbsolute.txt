@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.exe
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.dll
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\bin\Debug\netcoreapp3.1\PrimePairs.pdb
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.dll
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.pdb
+D:\C# Basics\NestedLoops-MoreExercises\PrimePairs\obj\Debug\netcoreapp3.1\PrimePairs.genruntimeconfig.cache

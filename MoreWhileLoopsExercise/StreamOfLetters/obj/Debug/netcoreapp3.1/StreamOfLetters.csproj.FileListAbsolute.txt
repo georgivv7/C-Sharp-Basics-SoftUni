@@ -1,0 +1,13 @@
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.exe
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.deps.json
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.json
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.dev.json
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.dll
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.pdb
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csprojAssemblyReference.cache
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfoInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfo.cs
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.dll
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.pdb
+D:\C# Basics\MoreWhileLoopsExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.genruntimeconfig.cache

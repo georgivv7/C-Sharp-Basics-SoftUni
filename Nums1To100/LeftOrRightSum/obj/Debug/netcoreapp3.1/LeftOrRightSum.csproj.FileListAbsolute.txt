@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.exe
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.deps.json
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.runtimeconfig.json
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.dll
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.pdb
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.AssemblyInfo.cs
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.dll
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.pdb
+C:\Users\user\source\repos\Nums1To100\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.exe
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.deps.json
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.dll
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.pdb
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.dll
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.pdb
+D:\C# Basics\MoreExercisesForLoops\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.genruntimeconfig.cache

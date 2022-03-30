@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.exe
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.deps.json
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.dll
+D:\C# Basics\PB-Exam-March\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.pdb
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.dll
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.pdb
+D:\C# Basics\PB-Exam-March\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.genruntimeconfig.cache

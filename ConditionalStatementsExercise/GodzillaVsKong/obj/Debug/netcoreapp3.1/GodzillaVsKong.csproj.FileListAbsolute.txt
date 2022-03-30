@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.exe
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.deps.json
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.dll
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.dll
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+D:\C# Basics\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.genruntimeconfig.cache

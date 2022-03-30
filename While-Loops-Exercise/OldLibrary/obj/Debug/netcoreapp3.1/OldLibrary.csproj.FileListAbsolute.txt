@@ -1,0 +1,13 @@
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.exe
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.deps.json
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.runtimeconfig.json
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.runtimeconfig.dev.json
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.dll
+D:\C# Basics\While-Loops-Exercise\OldLibrary\bin\Debug\netcoreapp3.1\OldLibrary.pdb
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.csprojAssemblyReference.cache
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.AssemblyInfoInputs.cache
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.AssemblyInfo.cs
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.csproj.CoreCompileInputs.cache
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.dll
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.pdb
+D:\C# Basics\While-Loops-Exercise\OldLibrary\obj\Debug\netcoreapp3.1\OldLibrary.genruntimeconfig.cache

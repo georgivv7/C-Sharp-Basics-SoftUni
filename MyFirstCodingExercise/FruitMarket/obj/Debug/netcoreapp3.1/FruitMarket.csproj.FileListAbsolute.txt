@@ -1,0 +1,12 @@
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.exe
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.deps.json
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.json
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.dev.json
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.dll
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfoInputs.cache
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfo.cs
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csproj.CoreCompileInputs.cache
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.dll
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\C# Basics\MyFirstCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.genruntimeconfig.cache

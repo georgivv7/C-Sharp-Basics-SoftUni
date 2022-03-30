@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.exe
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.deps.json
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.dll
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\bin\Debug\netcoreapp3.1\Multiply2.pdb
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.dll
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.pdb
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.genruntimeconfig.cache
+D:\C# Basics\ConditionalsMoreExercise\Multiply2\obj\Debug\netcoreapp3.1\Multiply2.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+D:\C# Basics\WhileLoops\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.csprojAssemblyReference.cache
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+D:\C# Basics\WhileLoops\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

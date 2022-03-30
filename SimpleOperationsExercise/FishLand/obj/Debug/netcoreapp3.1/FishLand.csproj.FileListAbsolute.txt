@@ -1,0 +1,12 @@
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.exe
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.deps.json
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.dll
+D:\C# Basics\SimpleOperationsExercise\FishLand\bin\Debug\netcoreapp3.1\FishLand.pdb
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.dll
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.pdb
+D:\C# Basics\SimpleOperationsExercise\FishLand\obj\Debug\netcoreapp3.1\FishLand.genruntimeconfig.cache

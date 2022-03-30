@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.exe
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.deps.json
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.dll
+D:\C# Basics\PB-Exam-July\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.pdb
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.dll
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.pdb
+D:\C# Basics\PB-Exam-July\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.genruntimeconfig.cache

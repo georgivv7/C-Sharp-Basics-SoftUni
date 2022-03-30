@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.exe
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.deps.json
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.dll
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.pdb
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.dll
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.pdb
+D:\C# Basics\PB-Exam-9.10.March\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.genruntimeconfig.cache

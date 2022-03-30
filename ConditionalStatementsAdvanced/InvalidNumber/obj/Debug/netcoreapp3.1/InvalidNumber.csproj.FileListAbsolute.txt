@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.genruntimeconfig.cache

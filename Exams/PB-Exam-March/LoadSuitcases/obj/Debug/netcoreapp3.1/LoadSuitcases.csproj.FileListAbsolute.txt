@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.exe
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.deps.json
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.dll
+D:\C# Basics\PB-Exam-March\LoadSuitcases\bin\Debug\netcoreapp3.1\LoadSuitcases.pdb
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.dll
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.pdb
+D:\C# Basics\PB-Exam-March\LoadSuitcases\obj\Debug\netcoreapp3.1\LoadSuitcases.genruntimeconfig.cache

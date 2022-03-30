@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.exe
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.deps.json
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.dll
+D:\C# Basics\PB-Exam-May\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.pdb
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.dll
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.pdb
+D:\C# Basics\PB-Exam-May\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.genruntimeconfig.cache

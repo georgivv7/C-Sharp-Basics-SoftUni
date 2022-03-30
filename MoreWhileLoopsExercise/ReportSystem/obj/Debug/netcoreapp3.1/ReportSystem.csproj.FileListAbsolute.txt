@@ -1,0 +1,13 @@
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.exe
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.deps.json
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.json
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.dev.json
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.dll
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.pdb
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csprojAssemblyReference.cache
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfoInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfo.cs
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.dll
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.pdb
+D:\C# Basics\MoreWhileLoopsExercise\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.genruntimeconfig.cache

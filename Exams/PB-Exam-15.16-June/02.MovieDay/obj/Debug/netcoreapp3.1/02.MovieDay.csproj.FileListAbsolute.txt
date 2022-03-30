@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.exe
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.deps.json
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.dll
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.pdb
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.dll
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.pdb
+D:\C# Basics\PB-Exam-15.16-June\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.genruntimeconfig.cache

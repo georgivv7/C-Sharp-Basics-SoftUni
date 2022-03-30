@@ -1,0 +1,12 @@
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.exe
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.deps.json
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.runtimeconfig.json
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.runtimeconfig.dev.json
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.dll
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\bin\Debug\netcoreapp3.1\AverageNum.pdb
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.AssemblyInfoInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.AssemblyInfo.cs
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.dll
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.pdb
+D:\C# Basics\MoreWhileLoopsExercise\AverageNum\obj\Debug\netcoreapp3.1\AverageNum.genruntimeconfig.cache

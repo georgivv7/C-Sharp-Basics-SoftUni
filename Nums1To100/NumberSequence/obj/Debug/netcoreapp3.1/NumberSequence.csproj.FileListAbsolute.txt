@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\user\source\repos\Nums1To100\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\user\source\repos\Nums1To100\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.exe
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.deps.json
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.dll
+D:\C# Basics\PB-Exam-March\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.pdb
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.dll
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.pdb
+D:\C# Basics\PB-Exam-March\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.genruntimeconfig.cache

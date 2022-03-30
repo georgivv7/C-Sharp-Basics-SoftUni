@@ -1,0 +1,12 @@
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.exe
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.deps.json
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.runtimeconfig.json
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.runtimeconfig.dev.json
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.dll
+D:\C# Basics\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.pdb
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.AssemblyInfo.cs
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.dll
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.pdb
+D:\C# Basics\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.genruntimeconfig.cache

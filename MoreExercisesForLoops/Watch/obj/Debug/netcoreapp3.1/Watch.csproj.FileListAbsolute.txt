@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.exe
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.deps.json
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.dll
+D:\C# Basics\MoreExercisesForLoops\Watch\bin\Debug\netcoreapp3.1\Watch.pdb
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.dll
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.pdb
+D:\C# Basics\MoreExercisesForLoops\Watch\obj\Debug\netcoreapp3.1\Watch.genruntimeconfig.cache

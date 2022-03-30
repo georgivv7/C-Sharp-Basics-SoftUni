@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.exe
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.deps.json
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.dll
+D:\C# Basics\PB-Exam-15.16-June\05.Series\bin\Debug\netcoreapp3.1\05.Series.pdb
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.dll
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.pdb
+D:\C# Basics\PB-Exam-15.16-June\05.Series\obj\Debug\netcoreapp3.1\05.Series.genruntimeconfig.cache

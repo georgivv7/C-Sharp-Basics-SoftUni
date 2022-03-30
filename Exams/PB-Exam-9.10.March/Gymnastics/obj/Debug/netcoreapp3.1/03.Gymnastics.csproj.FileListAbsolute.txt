@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.exe
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.deps.json
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.dll
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.pdb
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.dll
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.pdb
+D:\C# Basics\PB-Exam-9.10.March\Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.genruntimeconfig.cache

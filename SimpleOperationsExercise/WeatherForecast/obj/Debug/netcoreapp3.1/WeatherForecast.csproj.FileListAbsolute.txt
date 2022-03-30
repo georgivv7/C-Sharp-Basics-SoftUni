@@ -1,0 +1,12 @@
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.exe
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.deps.json
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.dll
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.pdb
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.dll
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.pdb
+D:\C# Basics\SimpleOperationsExercise\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.genruntimeconfig.cache

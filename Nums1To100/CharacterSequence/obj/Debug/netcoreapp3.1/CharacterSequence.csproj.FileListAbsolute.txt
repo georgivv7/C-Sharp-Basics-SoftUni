@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\user\source\repos\Nums1To100\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

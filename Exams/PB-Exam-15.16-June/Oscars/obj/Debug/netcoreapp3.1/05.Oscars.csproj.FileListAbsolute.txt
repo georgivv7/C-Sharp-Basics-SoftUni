@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.exe
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.deps.json
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.dll
+D:\C# Basics\PB-Exam-15.16-June\Oscars\bin\Debug\netcoreapp3.1\05.Oscars.pdb
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.dll
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.pdb
+D:\C# Basics\PB-Exam-15.16-June\Oscars\obj\Debug\netcoreapp3.1\05.Oscars.genruntimeconfig.cache

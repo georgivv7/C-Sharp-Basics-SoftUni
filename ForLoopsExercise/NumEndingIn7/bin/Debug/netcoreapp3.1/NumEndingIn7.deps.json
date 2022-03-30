@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumEndingIn7/1.0.0": {
+        "runtime": {
+          "NumEndingIn7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumEndingIn7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

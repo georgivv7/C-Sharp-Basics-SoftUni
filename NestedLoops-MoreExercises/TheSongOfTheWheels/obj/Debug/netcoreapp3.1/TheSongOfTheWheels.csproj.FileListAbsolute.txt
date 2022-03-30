@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.exe
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.dll
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\bin\Debug\netcoreapp3.1\TheSongOfTheWheels.pdb
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.dll
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.pdb
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.genruntimeconfig.cache
+D:\C# Basics\NestedLoops-MoreExercises\TheSongOfTheWheels\obj\Debug\netcoreapp3.1\TheSongOfTheWheels.csprojAssemblyReference.cache

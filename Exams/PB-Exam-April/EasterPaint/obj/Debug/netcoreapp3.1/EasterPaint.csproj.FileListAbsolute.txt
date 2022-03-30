@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.exe
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.deps.json
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.dll
+D:\C# Basics\PB-Exam-April\EasterPaint\bin\Debug\netcoreapp3.1\EasterPaint.pdb
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.dll
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.pdb
+D:\C# Basics\PB-Exam-April\EasterPaint\obj\Debug\netcoreapp3.1\EasterPaint.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.exe
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.deps.json
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.dll
+D:\C# Basics\PB-Exam-July\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMachine.pdb
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.dll
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.pdb
+D:\C# Basics\PB-Exam-July\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMachine.genruntimeconfig.cache

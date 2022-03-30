@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.exe
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.deps.json
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.dll
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.pdb
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.dll
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.pdb
+D:\C# Basics\ConditionalsMoreExercise\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.genruntimeconfig.cache

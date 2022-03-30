@@ -1,0 +1,12 @@
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.exe
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.deps.json
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.dll
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\bin\Debug\netcoreapp3.1\VegetableMarket.pdb
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.dll
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.pdb
+D:\C# Basics\SimpleOperationsExercise\FruitMarket\obj\Debug\netcoreapp3.1\VegetableMarket.genruntimeconfig.cache

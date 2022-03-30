@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.exe
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.deps.json
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.dll
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.pdb
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.dll
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.pdb
+D:\C# Basics\ConditionalsMoreExercise\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.genruntimeconfig.cache

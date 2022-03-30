@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.exe
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.deps.json
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.dll
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\bin\Debug\netcoreapp3.1\Harvesting.pdb
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.dll
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.pdb
+D:\C# Basics\ConditionalsMoreExercises\Harvesting\obj\Debug\netcoreapp3.1\Harvesting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.exe
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.deps.json
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.dll
+D:\C# Basics\PB-Exam-July\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.pdb
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.dll
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.pdb
+D:\C# Basics\PB-Exam-July\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.genruntimeconfig.cache

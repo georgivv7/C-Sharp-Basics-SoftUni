@@ -1,0 +1,12 @@
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.exe
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.deps.json
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.runtimeconfig.json
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.dll
+D:\C# Basics\WhileLoops\Sequence2K+1\bin\Debug\netcoreapp3.1\Sequence2K+1.pdb
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.dll
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.pdb
+D:\C# Basics\WhileLoops\Sequence2K+1\obj\Debug\netcoreapp3.1\Sequence2K+1.genruntimeconfig.cache

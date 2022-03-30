@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.exe
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.dll
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.pdb
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.dll
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.pdb
+D:\C# Basics\NestedLoops-MoreExercises\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.genruntimeconfig.cache

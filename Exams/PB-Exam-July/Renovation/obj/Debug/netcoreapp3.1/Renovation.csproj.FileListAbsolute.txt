@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.exe
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.deps.json
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.dll
+D:\C# Basics\PB-Exam-July\Renovation\bin\Debug\netcoreapp3.1\Renovation.pdb
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.dll
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.pdb
+D:\C# Basics\PB-Exam-July\Renovation\obj\Debug\netcoreapp3.1\Renovation.genruntimeconfig.cache

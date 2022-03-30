@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.exe
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.deps.json
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.dll
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\bin\Debug\netcoreapp3.1\CelsiusToFarenheit.pdb
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.dll
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.pdb
+D:\C# Basics\SimpleOperationsExercise\CelsiusToFarenheit\obj\Debug\netcoreapp3.1\CelsiusToFarenheit.genruntimeconfig.cache

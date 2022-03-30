@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.exe
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.deps.json
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.genruntimeconfig.cache
+D:\C# Basics\PB-Exam-6.7-April\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csprojAssemblyReference.cache

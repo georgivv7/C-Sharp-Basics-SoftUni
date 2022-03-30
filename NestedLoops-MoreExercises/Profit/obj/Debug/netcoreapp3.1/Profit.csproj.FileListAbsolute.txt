@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.exe
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.dll
+D:\C# Basics\NestedLoops-MoreExercises\Profit\bin\Debug\netcoreapp3.1\Profit.pdb
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.dll
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.pdb
+D:\C# Basics\NestedLoops-MoreExercises\Profit\obj\Debug\netcoreapp3.1\Profit.genruntimeconfig.cache

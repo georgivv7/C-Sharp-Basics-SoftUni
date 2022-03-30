@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.exe
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.deps.json
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.dll
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\bin\Debug\netcoreapp3.1\06.FavouriteMovie.pdb
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.dll
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.pdb
+D:\C# Basics\PB-Exam-15.16-June\06.FavouriteMovie\obj\Debug\netcoreapp3.1\06.FavouriteMovie.genruntimeconfig.cache

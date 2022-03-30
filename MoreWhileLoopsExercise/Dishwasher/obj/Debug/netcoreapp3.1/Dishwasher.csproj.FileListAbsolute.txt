@@ -1,0 +1,13 @@
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.exe
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.deps.json
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.runtimeconfig.json
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.runtimeconfig.dev.json
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.dll
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\bin\Debug\netcoreapp3.1\Dishwasher.pdb
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.csprojAssemblyReference.cache
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.AssemblyInfoInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.AssemblyInfo.cs
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.dll
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.pdb
+D:\C# Basics\MoreWhileLoopsExercise\Dishwasher\obj\Debug\netcoreapp3.1\Dishwasher.genruntimeconfig.cache

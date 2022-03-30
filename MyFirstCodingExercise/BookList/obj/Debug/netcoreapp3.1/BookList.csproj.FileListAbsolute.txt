@@ -1,0 +1,12 @@
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.exe
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.deps.json
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.runtimeconfig.json
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.runtimeconfig.dev.json
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.dll
+D:\C# Basics\MyFirstCodingExercise\BookList\bin\Debug\netcoreapp3.1\BookList.pdb
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.AssemblyInfoInputs.cache
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.AssemblyInfo.cs
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.csproj.CoreCompileInputs.cache
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.dll
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.pdb
+D:\C# Basics\MyFirstCodingExercise\BookList\obj\Debug\netcoreapp3.1\BookList.genruntimeconfig.cache

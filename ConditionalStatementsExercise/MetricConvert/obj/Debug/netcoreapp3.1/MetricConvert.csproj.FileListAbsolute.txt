@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.exe
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.deps.json
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.dll
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\bin\Debug\netcoreapp3.1\MetricConvert.pdb
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.dll
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.pdb
+D:\C# Basics\ConditionalStatementsExercise\MetricConvert\obj\Debug\netcoreapp3.1\MetricConvert.genruntimeconfig.cache

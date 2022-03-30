@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.exe
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.deps.json
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.dll
+D:\C# Basics\PB-Exam-July\Club\bin\Debug\netcoreapp3.1\Club.pdb
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.dll
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.pdb
+D:\C# Basics\PB-Exam-July\Club\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.exe
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.deps.json
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.runtimeconfig.json
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.runtimeconfig.dev.json
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.dll
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\bin\Debug\netcoreapp3.1\NumsDividedBy3.pdb
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.csprojAssemblyReference.cache
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.AssemblyInfoInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.AssemblyInfo.cs
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.dll
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.pdb
+D:\C# Basics\MoreWhileLoopsExercise\NumsDividedBy3\obj\Debug\netcoreapp3.1\NumsDividedBy3.genruntimeconfig.cache

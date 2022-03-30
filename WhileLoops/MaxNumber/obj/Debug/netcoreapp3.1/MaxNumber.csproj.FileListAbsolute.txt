@@ -1,0 +1,12 @@
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+D:\C# Basics\WhileLoops\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+D:\C# Basics\WhileLoops\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache

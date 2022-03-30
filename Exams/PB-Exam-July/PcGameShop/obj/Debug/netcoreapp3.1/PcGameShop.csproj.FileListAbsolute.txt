@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.exe
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.deps.json
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.dll
+D:\C# Basics\PB-Exam-July\PcGameShop\bin\Debug\netcoreapp3.1\PcGameShop.pdb
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.dll
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.pdb
+D:\C# Basics\PB-Exam-July\PcGameShop\obj\Debug\netcoreapp3.1\PcGameShop.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+D:\C# Basics\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.csproj.CoreCompileInputs.cache

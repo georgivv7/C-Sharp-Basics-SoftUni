@@ -1,0 +1,13 @@
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.exe
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.deps.json
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.runtimeconfig.json
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.runtimeconfig.dev.json
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.dll
+D:\C# Basics\ConcentrateData\ConcentrateData\bin\Debug\netcoreapp3.1\ConcentrateData.pdb
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.csprojAssemblyReference.cache
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.AssemblyInfoInputs.cache
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.AssemblyInfo.cs
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.dll
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.pdb
+D:\C# Basics\ConcentrateData\ConcentrateData\obj\Debug\netcoreapp3.1\ConcentrateData.genruntimeconfig.cache

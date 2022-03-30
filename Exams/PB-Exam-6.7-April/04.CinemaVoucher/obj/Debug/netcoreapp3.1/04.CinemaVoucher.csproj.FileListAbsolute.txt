@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.exe
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.deps.json
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+D:\C# Basics\PB-Exam-6.7-April\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.genruntimeconfig.cache

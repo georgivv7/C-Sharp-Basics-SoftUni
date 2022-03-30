@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.exe
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.deps.json
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.runtimeconfig.json
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.dll
+C:\Users\user\source\repos\Nums1To100\Nums1To100\bin\Debug\netcoreapp3.1\Nums1To100.pdb
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.AssemblyInfo.cs
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.dll
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.pdb
+C:\Users\user\source\repos\Nums1To100\Nums1To100\obj\Debug\netcoreapp3.1\Nums1To100.genruntimeconfig.cache

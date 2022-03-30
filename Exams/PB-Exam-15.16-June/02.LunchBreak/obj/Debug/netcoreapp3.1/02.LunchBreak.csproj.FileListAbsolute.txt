@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.exe
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.deps.json
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.dll
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.pdb
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.dll
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.pdb
+D:\C# Basics\PB-Exam-15.16-June\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.genruntimeconfig.cache

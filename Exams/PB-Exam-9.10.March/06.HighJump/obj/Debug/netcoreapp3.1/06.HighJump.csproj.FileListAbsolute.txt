@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.exe
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.deps.json
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.dll
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.pdb
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.dll
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.pdb
+D:\C# Basics\PB-Exam-9.10.March\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.genruntimeconfig.cache

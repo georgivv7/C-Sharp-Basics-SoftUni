@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.exe
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.deps.json
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.dll
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\bin\Debug\netcoreapp3.1\Speedinfo.pdb
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.dll
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.pdb
+D:\C# Basics\ConditionalStatementsExercise\Speedinfo\obj\Debug\netcoreapp3.1\Speedinfo.genruntimeconfig.cache

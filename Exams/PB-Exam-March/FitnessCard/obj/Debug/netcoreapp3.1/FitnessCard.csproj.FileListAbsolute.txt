@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.exe
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.deps.json
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.dll
+D:\C# Basics\PB-Exam-March\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.pdb
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.dll
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.pdb
+D:\C# Basics\PB-Exam-March\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.genruntimeconfig.cache

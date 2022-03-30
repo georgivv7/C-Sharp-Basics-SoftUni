@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.exe
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.deps.json
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
+D:\C# Basics\PB-Exam-6.7-April\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.genruntimeconfig.cache

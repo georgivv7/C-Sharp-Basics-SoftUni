@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.exe
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.deps.json
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.dll
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.pdb
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.dll
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.pdb
+D:\C# Basics\SimpleOperationsExercise\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.genruntimeconfig.cache

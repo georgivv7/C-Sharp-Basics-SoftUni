@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.exe
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.deps.json
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.dll
+D:\C# Basics\PB-Exam-April\EasterParty\bin\Debug\netcoreapp3.1\EasterParty.pdb
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.dll
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.pdb
+D:\C# Basics\PB-Exam-April\EasterParty\obj\Debug\netcoreapp3.1\EasterParty.genruntimeconfig.cache

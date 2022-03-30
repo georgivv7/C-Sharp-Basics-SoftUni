@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.exe
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.deps.json
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.dll
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\bin\Debug\netcoreapp3.1\BackToThePast.pdb
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.dll
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.pdb
+D:\C# Basics\MoreExercisesForLoops\BackToThePast\obj\Debug\netcoreapp3.1\BackToThePast.genruntimeconfig.cache

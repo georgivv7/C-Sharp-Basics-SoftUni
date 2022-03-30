@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.exe
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.deps.json
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.dll
+D:\C# Basics\ConditionalsMoreExercise\Flowers\bin\Debug\netcoreapp3.1\Flowers.pdb
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.dll
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.pdb
+D:\C# Basics\ConditionalsMoreExercise\Flowers\obj\Debug\netcoreapp3.1\Flowers.genruntimeconfig.cache

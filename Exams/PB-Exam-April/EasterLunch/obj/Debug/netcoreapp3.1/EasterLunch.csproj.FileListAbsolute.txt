@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.exe
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.deps.json
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.dll
+D:\C# Basics\PB-Exam-April\EasterLunch\bin\Debug\netcoreapp3.1\EasterLunch.pdb
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.dll
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.pdb
+D:\C# Basics\PB-Exam-April\EasterLunch\obj\Debug\netcoreapp3.1\EasterLunch.genruntimeconfig.cache

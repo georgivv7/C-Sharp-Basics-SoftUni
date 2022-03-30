@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.exe
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.deps.json
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.dll
+D:\C# Basics\PB-Exam-April\EasterEggs\bin\Debug\netcoreapp3.1\EasterEggs.pdb
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.dll
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.pdb
+D:\C# Basics\PB-Exam-April\EasterEggs\obj\Debug\netcoreapp3.1\EasterEggs.genruntimeconfig.cache

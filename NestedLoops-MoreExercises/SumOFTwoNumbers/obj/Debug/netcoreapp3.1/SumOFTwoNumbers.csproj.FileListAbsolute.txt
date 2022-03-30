@@ -1,0 +1,12 @@
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.exe
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.dll
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\bin\Debug\netcoreapp3.1\SumOFTwoNumbers.pdb
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.dll
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.pdb
+D:\C# Basics\NestedLoops-MoreExercises\SumOFTwoNumbers\obj\Debug\netcoreapp3.1\SumOFTwoNumbers.genruntimeconfig.cache

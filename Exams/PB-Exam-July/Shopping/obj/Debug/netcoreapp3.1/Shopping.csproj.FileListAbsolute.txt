@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+D:\C# Basics\PB-Exam-July\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+D:\C# Basics\PB-Exam-July\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache

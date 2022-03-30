@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.exe
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.deps.json
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.json
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
+D:\C# Basics\PB-Exam-15.16-June\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.genruntimeconfig.cache

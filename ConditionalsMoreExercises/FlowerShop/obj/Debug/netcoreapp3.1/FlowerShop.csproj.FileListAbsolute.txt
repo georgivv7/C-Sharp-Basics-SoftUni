@@ -1,0 +1,12 @@
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.exe
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.deps.json
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.dll
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.pdb
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.dll
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.pdb
+D:\C# Basics\ConditionalsMoreExercises\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.genruntimeconfig.cache

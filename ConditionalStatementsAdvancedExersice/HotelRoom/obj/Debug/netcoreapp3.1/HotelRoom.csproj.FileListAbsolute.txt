@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\C# Basics\ConditionalStatementsAdvancedExersice\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache

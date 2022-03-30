@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.exe
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.deps.json
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.dll
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\bin\Debug\netcoreapp3.1\Weekend.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.dll
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\Weekend\obj\Debug\netcoreapp3.1\Weekend.genruntimeconfig.cache

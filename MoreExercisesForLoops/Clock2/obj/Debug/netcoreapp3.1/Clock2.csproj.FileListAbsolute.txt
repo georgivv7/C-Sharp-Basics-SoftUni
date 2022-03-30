@@ -1,0 +1,12 @@
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.exe
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.deps.json
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.dll
+D:\C# Basics\MoreExercisesForLoops\Clock2\bin\Debug\netcoreapp3.1\Clock2.pdb
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.dll
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.pdb
+D:\C# Basics\MoreExercisesForLoops\Clock2\obj\Debug\netcoreapp3.1\Clock2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.exe
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.deps.json
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.dll
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\bin\Debug\netcoreapp3.1\02.GodzillaVsKong.pdb
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.dll
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.pdb
+D:\C# Basics\PB-Exam-6.7-April\02.GodzillaVsKong\obj\Debug\netcoreapp3.1\02.GodzillaVsKong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.exe
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.deps.json
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.dll
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.dll
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.pdb
+D:\C# Basics\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.genruntimeconfig.cache

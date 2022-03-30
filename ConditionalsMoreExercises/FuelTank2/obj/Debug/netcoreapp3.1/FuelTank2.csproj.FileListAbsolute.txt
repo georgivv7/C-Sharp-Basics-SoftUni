@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.exe
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.deps.json
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.dll
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\bin\Debug\netcoreapp3.1\FuelTank2.pdb
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.dll
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.pdb
+D:\C# Basics\ConditionalsMoreExercises\FuelTank2\obj\Debug\netcoreapp3.1\FuelTank2.genruntimeconfig.cache

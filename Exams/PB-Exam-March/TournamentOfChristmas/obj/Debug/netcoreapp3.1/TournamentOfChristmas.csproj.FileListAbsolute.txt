@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.exe
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.deps.json
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\C# Basics\PB-Exam-March\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.genruntimeconfig.cache

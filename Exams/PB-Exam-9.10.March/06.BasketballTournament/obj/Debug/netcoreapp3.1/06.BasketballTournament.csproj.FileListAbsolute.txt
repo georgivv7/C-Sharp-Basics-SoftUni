@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.exe
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.deps.json
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.dll
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.pdb
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.dll
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.pdb
+D:\C# Basics\PB-Exam-9.10.March\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.exe
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.deps.json
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.runtimeconfig.json
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.runtimeconfig.dev.json
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.dll
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\bin\Debug\netcoreapp3.1\InchtoCentimiter.pdb
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.AssemblyInfoInputs.cache
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.AssemblyInfo.cs
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.csproj.CoreCompileInputs.cache
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.dll
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.pdb
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.genruntimeconfig.cache
+D:\C# Basics\InchtoCentimiter\InchtoCentimiter\obj\Debug\netcoreapp3.1\InchtoCentimiter.csprojAssemblyReference.cache

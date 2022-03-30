@@ -1,0 +1,13 @@
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.exe
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.deps.json
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.json
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.dll
+D:\C# Basics\WhileLoops\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csprojAssemblyReference.cache
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.dll
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\C# Basics\WhileLoops\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.genruntimeconfig.cache

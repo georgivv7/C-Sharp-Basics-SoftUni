@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.exe
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.deps.json
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.dll
+D:\C# Basics\ConditionalsMoreExercises\Firm\bin\Debug\netcoreapp3.1\Firm.pdb
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.dll
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.pdb
+D:\C# Basics\ConditionalsMoreExercises\Firm\obj\Debug\netcoreapp3.1\Firm.genruntimeconfig.cache

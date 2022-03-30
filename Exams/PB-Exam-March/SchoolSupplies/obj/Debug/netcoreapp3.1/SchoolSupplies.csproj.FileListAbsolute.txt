@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.exe
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.deps.json
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.dll
+D:\C# Basics\PB-Exam-March\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.pdb
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.dll
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.pdb
+D:\C# Basics\PB-Exam-March\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.genruntimeconfig.cache

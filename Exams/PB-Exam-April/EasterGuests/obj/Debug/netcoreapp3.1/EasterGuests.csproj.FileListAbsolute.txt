@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.exe
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.deps.json
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.dll
+D:\C# Basics\PB-Exam-April\EasterGuests\bin\Debug\netcoreapp3.1\EasterGuests.pdb
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.dll
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.pdb
+D:\C# Basics\PB-Exam-April\EasterGuests\obj\Debug\netcoreapp3.1\EasterGuests.genruntimeconfig.cache

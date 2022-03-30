@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.exe
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.deps.json
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.runtimeconfig.json
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.runtimeconfig.dev.json
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.dll
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\bin\Debug\netcoreapp3.1\TrasportPrice.pdb
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.AssemblyInfo.cs
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.dll
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.pdb
+D:\C# Basics\ConditionalsMoreExercises\TrasportPrice\obj\Debug\netcoreapp3.1\TrasportPrice.genruntimeconfig.cache

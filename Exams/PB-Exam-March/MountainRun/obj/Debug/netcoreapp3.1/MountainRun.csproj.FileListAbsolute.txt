@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.exe
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.deps.json
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.dll
+D:\C# Basics\PB-Exam-March\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.pdb
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.dll
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.pdb
+D:\C# Basics\PB-Exam-March\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.exe
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.deps.json
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.dll
+D:\C# Basics\PB-Exam-July\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.pdb
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.dll
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.pdb
+D:\C# Basics\PB-Exam-July\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.genruntimeconfig.cache

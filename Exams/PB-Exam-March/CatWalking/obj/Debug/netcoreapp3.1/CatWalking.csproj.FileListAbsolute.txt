@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.exe
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.deps.json
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.dll
+D:\C# Basics\PB-Exam-March\CatWalking\bin\Debug\netcoreapp3.1\CatWalking.pdb
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.dll
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.pdb
+D:\C# Basics\PB-Exam-March\CatWalking\obj\Debug\netcoreapp3.1\CatWalking.genruntimeconfig.cache

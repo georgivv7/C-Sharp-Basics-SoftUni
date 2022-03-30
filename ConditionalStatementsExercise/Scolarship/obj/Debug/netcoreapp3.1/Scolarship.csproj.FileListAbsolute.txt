@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.exe
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.deps.json
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.dll
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\bin\Debug\netcoreapp3.1\Scolarship.pdb
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.dll
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.pdb
+D:\C# Basics\ConditionalStatementsExercise\Scolarship\obj\Debug\netcoreapp3.1\Scolarship.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.exe
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.dll
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.pdb
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.dll
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.pdb
+D:\C# Basics\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.genruntimeconfig.cache

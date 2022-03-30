@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.exe
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.dll
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\bin\Debug\netcoreapp3.1\SafePassGenerator.pdb
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.dll
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.pdb
+D:\C# Basics\NestedLoops-MoreExercises\SafePassGenerator\obj\Debug\netcoreapp3.1\SafePassGenerator.genruntimeconfig.cache

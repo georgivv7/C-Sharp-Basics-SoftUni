@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.exe
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.deps.json
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.dll
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.pdb
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.dll
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.pdb
+D:\C# Basics\SimpleOperationsExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.genruntimeconfig.cache

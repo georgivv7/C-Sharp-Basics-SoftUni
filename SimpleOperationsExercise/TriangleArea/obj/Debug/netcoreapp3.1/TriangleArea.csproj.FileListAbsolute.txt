@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.exe
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.deps.json
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.dll
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.pdb
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.dll
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.pdb
+D:\C# Basics\SimpleOperationsExercise\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.genruntimeconfig.cache

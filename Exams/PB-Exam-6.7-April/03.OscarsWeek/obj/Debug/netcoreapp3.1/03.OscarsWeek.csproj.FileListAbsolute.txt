@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.exe
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.deps.json
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.runtimeconfig.json
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.dll
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\bin\Debug\netcoreapp3.1\03.OscarsWeek.pdb
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.dll
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.pdb
+D:\C# Basics\PB-Exam-6.7-April\03.OscarsWeek\obj\Debug\netcoreapp3.1\03.OscarsWeek.genruntimeconfig.cache

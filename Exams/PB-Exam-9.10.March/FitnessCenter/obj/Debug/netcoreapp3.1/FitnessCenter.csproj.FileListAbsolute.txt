@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.exe
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.deps.json
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.runtimeconfig.json
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.dll
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.pdb
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.dll
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.pdb
+D:\C# Basics\PB-Exam-9.10.March\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.genruntimeconfig.cache

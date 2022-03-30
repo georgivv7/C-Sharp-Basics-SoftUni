@@ -1,0 +1,13 @@
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.exe
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.deps.json
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.json
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.dev.json
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.dll
+D:\C# Basics\SimpleOperationsExercise\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.pdb
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csprojAssemblyReference.cache
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfoInputs.cache
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfo.cs
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.CoreCompileInputs.cache
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.dll
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.pdb
+D:\C# Basics\SimpleOperationsExercise\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.genruntimeconfig.cache

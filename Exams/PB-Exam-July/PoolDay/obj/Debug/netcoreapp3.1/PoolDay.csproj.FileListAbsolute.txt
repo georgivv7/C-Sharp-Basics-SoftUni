@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.exe
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.deps.json
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.runtimeconfig.json
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.dll
+D:\C# Basics\PB-Exam-July\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.pdb
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.dll
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.pdb
+D:\C# Basics\PB-Exam-July\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.exe
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.deps.json
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.dll
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.pdb
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.dll
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.pdb
+D:\C# Basics\MoreExercisesForLoops\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.genruntimeconfig.cache

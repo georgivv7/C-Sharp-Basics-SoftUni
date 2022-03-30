@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\C# Basics\MoreExercisesForLoops\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\C# Basics\MoreExercisesForLoops\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache

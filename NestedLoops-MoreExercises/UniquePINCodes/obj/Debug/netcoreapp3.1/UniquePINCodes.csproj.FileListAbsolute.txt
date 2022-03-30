@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.exe
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.dll
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.pdb
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.dll
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.pdb
+D:\C# Basics\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.genruntimeconfig.cache

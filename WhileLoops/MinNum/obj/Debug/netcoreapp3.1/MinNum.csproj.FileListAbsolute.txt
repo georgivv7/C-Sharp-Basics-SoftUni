@@ -1,0 +1,12 @@
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.exe
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.deps.json
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.runtimeconfig.json
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.runtimeconfig.dev.json
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.dll
+D:\C# Basics\WhileLoops\MinNum\bin\Debug\netcoreapp3.1\MinNum.pdb
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.AssemblyInfoInputs.cache
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.AssemblyInfo.cs
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.csproj.CoreCompileInputs.cache
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.dll
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.pdb
+D:\C# Basics\WhileLoops\MinNum\obj\Debug\netcoreapp3.1\MinNum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.exe
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.deps.json
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.dll
+D:\C# Basics\PB-Exam-March\EnergyBooster\bin\Debug\netcoreapp3.1\EnergyBooster.pdb
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.dll
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.pdb
+D:\C# Basics\PB-Exam-March\EnergyBooster\obj\Debug\netcoreapp3.1\EnergyBooster.genruntimeconfig.cache

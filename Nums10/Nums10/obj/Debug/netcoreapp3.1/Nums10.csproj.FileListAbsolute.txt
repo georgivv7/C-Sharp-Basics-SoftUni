@@ -1,0 +1,13 @@
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.exe
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.deps.json
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.runtimeconfig.json
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.runtimeconfig.dev.json
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.dll
+D:\Nums10\Nums10\bin\Debug\netcoreapp3.1\Nums10.pdb
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.csprojAssemblyReference.cache
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.AssemblyInfoInputs.cache
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.AssemblyInfo.cs
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.csproj.CoreCompileInputs.cache
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.dll
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.pdb
+D:\Nums10\Nums10\obj\Debug\netcoreapp3.1\Nums10.genruntimeconfig.cache

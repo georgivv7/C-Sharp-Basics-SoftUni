@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.exe
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.deps.json
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.runtimeconfig.json
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.dll
+D:\C# Basics\PB-Exam-March\CareOfPuppy\bin\Debug\netcoreapp3.1\CareOfPuppy.pdb
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.dll
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.pdb
+D:\C# Basics\PB-Exam-March\CareOfPuppy\obj\Debug\netcoreapp3.1\CareOfPuppy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.exe
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.deps.json
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.runtimeconfig.json
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.runtimeconfig.dev.json
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.dll
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.pdb
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.csprojAssemblyReference.cache
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.AssemblyInfoInputs.cache
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.AssemblyInfo.cs
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.csproj.CoreCompileInputs.cache
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.dll
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.pdb
+D:\C# Basics\MoreExercisesForLoops\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.exe
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.deps.json
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.runtimeconfig.json
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.dll
+D:\C# Basics\PB-Exam-April\EasterShop\bin\Debug\netcoreapp3.1\EasterShop.pdb
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.dll
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.pdb
+D:\C# Basics\PB-Exam-April\EasterShop\obj\Debug\netcoreapp3.1\EasterShop.genruntimeconfig.cache

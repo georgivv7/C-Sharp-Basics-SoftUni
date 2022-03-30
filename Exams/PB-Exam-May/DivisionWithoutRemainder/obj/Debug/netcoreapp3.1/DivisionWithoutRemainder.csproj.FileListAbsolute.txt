@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.exe
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.deps.json
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.dll
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\bin\Debug\netcoreapp3.1\DivisionWithoutRemainder.pdb
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.dll
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.pdb
+D:\C# Basics\PB-Exam-May\DivisionWithoutRemainder\obj\Debug\netcoreapp3.1\DivisionWithoutRemainder.genruntimeconfig.cache

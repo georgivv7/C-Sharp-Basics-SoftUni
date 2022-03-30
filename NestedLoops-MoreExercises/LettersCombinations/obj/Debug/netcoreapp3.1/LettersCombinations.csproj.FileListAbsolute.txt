@@ -1,0 +1,13 @@
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.exe
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.deps.json
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.runtimeconfig.json
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.runtimeconfig.dev.json
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.dll
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.pdb
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.csprojAssemblyReference.cache
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.AssemblyInfoInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.AssemblyInfo.cs
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.csproj.CoreCompileInputs.cache
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.dll
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.pdb
+D:\C# Basics\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.genruntimeconfig.cache

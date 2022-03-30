@@ -1,0 +1,13 @@
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.exe
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.deps.json
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.runtimeconfig.json
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.runtimeconfig.dev.json
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.dll
+D:\C# Basics\PB-Exam-May\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.pdb
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.csprojAssemblyReference.cache
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.AssemblyInfoInputs.cache
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.AssemblyInfo.cs
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.csproj.CoreCompileInputs.cache
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.dll
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.pdb
+D:\C# Basics\PB-Exam-May\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.genruntimeconfig.cache

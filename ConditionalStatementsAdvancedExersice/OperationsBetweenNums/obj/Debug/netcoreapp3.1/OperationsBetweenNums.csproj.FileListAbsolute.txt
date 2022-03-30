@@ -1,0 +1,13 @@
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.exe
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.deps.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.runtimeconfig.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.runtimeconfig.dev.json
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.dll
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\bin\Debug\netcoreapp3.1\OperationsBetweenNums.pdb
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.csprojAssemblyReference.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.AssemblyInfoInputs.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.AssemblyInfo.cs
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.csproj.CoreCompileInputs.cache
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.dll
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.pdb
+D:\C# Basics\ConditionalStatementsAdvancedExersice\OperationsBetweenNums\obj\Debug\netcoreapp3.1\OperationsBetweenNums.genruntimeconfig.cache
